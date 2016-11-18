@@ -1,0 +1,14 @@
+git
+builddoc
+cmd
+core
+util
+testr_command
+packaging
+find_package
+hooks
+tests
+version
+extra_files
+options
+pbr_json
